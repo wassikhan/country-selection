@@ -1,6 +1,4 @@
-<div class="col-md-12">
-                                   <span class="txt"> Country *:</span>
-                                        <select class="form-control" id='bill_to_address_country' name='bill_to_address_country' required>
+                                   <select class="form-control" id='bill_to_address_country' name='bill_to_address_country' required>
                                         <option value="0">Please Select Country</option>
                                         <option value="AF" alt="AF" data-country-rate="108">Afghanistan</option>
                                         <option value="AX" alt="AX" data-country-rate="180">Aland islands</option>
@@ -244,4 +242,4 @@
                                         <option value="EH" alt="EH" data-country-rate="233">Western Sahara</option>
                                         <option value="ZM" alt="ZM" data-country-rate="122">Zambia</option>
                                         </select>
-                                    </div>
+                            
