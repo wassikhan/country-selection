@@ -1,0 +1,247 @@
+<div class="col-md-12">
+                                   <span class="txt"> Country *:</span>
+                                        <select class="form-control" id='bill_to_address_country' name='bill_to_address_country' required>
+                                        <option value="0">Please Select Country</option>
+                                        <option value="AF" alt="AF" data-country-rate="108">Afghanistan</option>
+                                        <option value="AX" alt="AX" data-country-rate="180">Aland islands</option>
+                                        <option value="AL" alt="AL" data-country-rate="119">Albania</option>
+                                        <option value="DZ" alt="DZ" data-country-rate="131">Algeria</option>
+                                        <option value="AS" alt="AS" data-country-rate="161">American Samoa</option>
+                                        <option value="AD" alt="AD" data-country-rate="127">Andorra</option>
+                                        <option value="AO" alt="AO" data-country-rate="93">Angola</option>
+                                        <option value="AI" alt="AI" data-country-rate="192">Anguilla</option>
+                                        <option value="AQ" alt="AQ" data-country-rate="222">Antarctica</option>
+                                        <option value="AG" alt="AG" data-country-rate="162">Antigua and Barbuda</option>
+                                        <option value="AR" alt="AR" data-country-rate="29">Argentina</option>
+                                        <option value="AM" alt="AM" data-country-rate="111">Armenia</option>
+                                        <option value="AW" alt="AW" data-country-rate="144">Aruba</option>
+                                        <option value="AC" alt="AC" data-country-rate="237">Ascension Island</option>
+                                        <option value="AU" alt="AU" data-country-rate="5">Australia</option>
+                                        <option value="AT" alt="AT" data-country-rate="23">Austria</option>
+                                        <option value="AZ" alt="AZ" data-country-rate="75">Azerbaijan</option>
+                                        <option value="BS" alt="BS" data-country-rate="118">Bahamas</option>
+                                        <option value="BH" alt="BH" data-country-rate="90">Bahrain</option>
+                                        <option value="BD" alt="BD" data-country-rate="116">Bangladesh</option>
+                                        <option value="BB" alt="BB" data-country-rate="106">Barbados</option>
+                                        <option value="BY" alt="BY" data-country-rate="47">Belarus</option>
+                                        <option value="BE" alt="BE" data-country-rate="16">Belgium</option>
+                                        <option value="BZ" alt="BZ" data-country-rate="103">Belize</option>
+                                        <option value="BJ" alt="BJ" data-country-rate="156">Benin</option>
+                                        <option value="BM" alt="BM" data-country-rate="112">Bermuda</option>
+                                        <option value="BT" alt="BT" data-country-rate="210">Bhutan</option>
+                                        <option value="BO" alt="BO" data-country-rate="105">Bolivia</option>
+                                        <option value="BQ" alt="BQ" data-country-rate="203">Bonaire, Sint Eustatius And Saba</option>
+                                        <option value="BA" alt="BA" data-country-rate="99">Bosnia and Herzegovina</option>
+                                        <option value="BW" alt="BW" data-country-rate="133">Botswana</option>
+                                        <option value="BV" alt="BV" data-country-rate="232">Bouvet Island</option>
+                                        <option value="BR" alt="BR" data-country-rate="10">Brazil</option>
+                                        <option value="IO" alt="IO" data-country-rate="220">British Indian Ocean Territory</option>
+                                        <option value="BN" alt="BN" data-country-rate="107">Brunei Darussalam</option>
+                                        <option value="BG" alt="BG" data-country-rate="55">Bulgaria</option>
+                                        <option value="BF" alt="BF" data-country-rate="152">Burkina Faso</option>
+                                        <option value="BI" alt="BI" data-country-rate="206">Burundi</option>
+                                        <option value="KH" alt="KH" data-country-rate="110">Cambodia</option>
+                                        <option value="CM" alt="CM" data-country-rate="132">Cameroon</option>
+                                        <option value="CA" alt="CA" data-country-rate="6">Canada</option>
+                                        <option value="IC" alt="IC" data-country-rate="155">Canary Islands</option>
+                                        <option value="CV" alt="CV" data-country-rate="164">Cape Verde</option>
+                                        <option value="KY" alt="KY" data-country-rate="136">Cayman Islands</option>
+                                        <option value="CF" alt="CF" data-country-rate="184">Central African Republic</option>
+                                        <option value="EA" alt="EA" data-country-rate="235">Ceuta and Melilla</option>
+                                        <option value="TD" alt="TD" data-country-rate="191">Chad</option>
+                                        <option value="CL" alt="CL" data-country-rate="35">Chile</option>
+                                        <option value="CN" alt="CN" data-country-rate="8">China</option>
+                                        <option value="CX" alt="CX" data-country-rate="219">Christmas Island</option>
+                                        <option value="CP" alt="CP" data-country-rate="229">Clipperton Island</option>
+                                        <option value="CC" alt="CC" data-country-rate="237">Cocos (Keeling) Islands</option>
+                                        <option value="CO" alt="CO" data-country-rate="46">Colombia</option>
+                                        <option value="KM" alt="KM" data-country-rate="204">Comoros</option>
+                                        <option value="CK" alt="CK" data-country-rate="182">Cook Islands</option>
+                                        <option value="CR" alt="CR" data-country-rate="61">Costa Rica</option>
+                                        <option value="HR" alt="HR" data-country-rate="52">Croatia</option>
+                                        <option value="CW" alt="CW" data-country-rate="168">Curaçao</option>
+                                        <option value="CY" alt="CY" data-country-rate="67">Cyprus</option>
+                                        <option value="CZ" alt="CZ" data-country-rate="25">Czech Republic</option>
+                                        <option value="DK" alt="DK" data-country-rate="22">Denmark</option>
+                                        <option value="DG" alt="DG" data-country-rate="237">Diego Garcia</option>
+                                        <option value="DJ" alt="DJ" data-country-rate="190">Djibouti</option>
+                                        <option value="DM" alt="DM" data-country-rate="173">Dominica</option>
+                                        <option value="DO" alt="DO" data-country-rate="63">Dominican Republic</option>
+                                        <option value="EC" alt="EC" data-country-rate="66">Ecuador</option>
+                                        <option value="EG" alt="EG" data-country-rate="62">Egypt</option>
+                                        <option value="SV" alt="SV" data-country-rate="96">El Salvador</option>
+                                        <option value="GQ" alt="GQ" data-country-rate="212">Equatorial Guinea</option>
+                                        <option value="EE" alt="EE" data-country-rate="59">Estonia</option>
+                                        <option value="ET" alt="ET" data-country-rate="186">Ethiopia</option>
+                                        <option value="FK" alt="FK" data-country-rate="199">Falkland Islands (Malvinas)</option>
+                                        <option value="FO" alt="FO" data-country-rate="117">Faroe Islands</option>
+                                        <option value="FJ" alt="FJ" data-country-rate="160">Fiji</option>
+                                        <option value="FI" alt="FI" data-country-rate="33">Finland</option>
+                                        <option value="FR" alt="FR" data-country-rate="3">France</option>
+                                        <option value="GF" alt="GF" data-country-rate="98">French Guiana</option>
+                                        <option value="PF" alt="PF" data-country-rate="92">French Polynesia</option>
+                                        <option value="TF" alt="TF" data-country-rate="218">French Southern Territories</option>
+                                        <option value="GA" alt="GA" data-country-rate="142">Gabon</option>
+                                        <option value="GM" alt="GM" data-country-rate="195">Gambia</option>
+                                        <option value="GE" alt="GE" data-country-rate="87">Georgia</option>
+                                        <option value="DE" alt="DE" data-country-rate="2">Germany</option>
+                                        <option value="GH" alt="GH" data-country-rate="95">Ghana</option>
+                                        <option value="GI" alt="GI" data-country-rate="123">Gibraltar</option>
+                                        <option value="GR" alt="GR" data-country-rate="44">Greece</option>
+                                        <option value="GL" alt="GL" data-country-rate="104">Greenland</option>
+                                        <option value="GD" alt="GD" data-country-rate="167">Grenada</option>
+                                        <option value="GP" alt="GP" data-country-rate="80">Guadeloupe</option>
+                                        <option value="GU" alt="GU" data-country-rate="115">Guam</option>
+                                        <option value="GT" alt="GT" data-country-rate="82">Guatemala</option>
+                                        <option value="GG" alt="GG" data-country-rate="148">Guernsey</option>
+                                        <option value="GN" alt="GN" data-country-rate="189">Guinea</option>
+                                        <option value="GW" alt="GW" data-country-rate="223">Guinea-Bissau</option>
+                                        <option value="GY" alt="GY" data-country-rate="146">Guyana</option>
+                                        <option value="HT" alt="HT" data-country-rate="154">Haiti</option>
+                                        <option value="HM" alt="HM" data-country-rate="205">Heard Island and Mcdonald Islands</option>
+                                        <option value="VA" alt="VA" data-country-rate="209">Holy See</option>
+                                        <option value="HN" alt="HN" data-country-rate="101">Honduras</option>
+                                        <option value="HK" alt="HK" data-country-rate="43">Hong Kong</option>
+                                        <option value="HU" alt="HU" data-country-rate="39">Hungary</option>
+                                        <option value="IS" alt="IS" data-country-rate="69">Iceland</option>
+                                        <option value="IN" alt="IN" data-country-rate="18">India</option>
+                                        <option value="ID" alt="ID" data-country-rate="36">Indonesia</option>
+                                        <option value="IE" alt="IE" data-country-rate="42">Ireland</option>
+                                        <option value="IM" alt="IM" data-country-rate="137">Isle of Man</option>
+                                        <option value="IL" alt="IL" data-country-rate="24">Israel</option>
+                                        <option value="IT" alt="IT" data-country-rate="7">Italy</option>
+                                        <option value="JM" alt="JM" data-country-rate="97">Jamaica</option>
+                                        <option value="JP" alt="JP" data-country-rate="13">Japan</option>
+                                        <option value="JE" alt="JE" data-country-rate="138">Jersey</option>
+                                        <option value="JO" alt="JO" data-country-rate="88">Jordan</option>
+                                        <option value="KZ" alt="KZ" data-country-rate="50">Kazakhstan</option>
+                                        <option value="KE" alt="KE" data-country-rate="77">Kenya</option>
+                                        <option value="KI" alt="KI" data-country-rate="215">Kiribati</option>
+                                        <option value="KR" alt="KR" data-country-rate="31">Korea, Republic of</option>
+                                        <option value="XK" alt="XK" data-country-rate="211">Kosovo</option>
+                                        <option value="KW" alt="KW" data-country-rate="58">Kuwait</option>
+                                        <option value="KG" alt="KG" data-country-rate="121">Kyrgyzstan</option>
+                                        <option value="LA" alt="LA" data-country-rate="174">Lao People's Democratic Republic</option>
+                                        <option value="LV" alt="LV" data-country-rate="49">Latvia</option>
+                                        <option value="LS" alt="LS" data-country-rate="198">Lesotho</option>
+                                        <option value="LY" alt="LY" data-country-rate="73">Libya</option>
+                                        <option value="LI" alt="LI" data-country-rate="158">Liechtenstein</option>
+                                        <option value="LT" alt="LT" data-country-rate="57">Lithuania</option>
+                                        <option value="LU" alt="LU" data-country-rate="65">Luxembourg</option>
+                                        <option value="MO" alt="MO" data-country-rate="120">Macau</option>
+                                        <option value="MK" alt="MK" data-country-rate="125">Macedonia, Republic of</option>
+                                        <option value="MG" alt="MG" data-country-rate="159">Madagascar</option>
+                                        <option value="MW" alt="MW" data-country-rate="185">Malawi</option>
+                                        <option value="MY" alt="MY" data-country-rate="41">Malaysia</option>
+                                        <option value="MV" alt="MV" data-country-rate="100">Maldives</option>
+                                        <option value="ML" alt="ML" data-country-rate="157">Mali</option>
+                                        <option value="MT" alt="MT" data-country-rate="76">Malta</option>
+                                        <option value="MH" alt="MH" data-country-rate="183">Marshall Islands</option>
+                                        <option value="MQ" alt="MQ" data-country-rate="78">Martinique</option>
+                                        <option value="MR" alt="MR" data-country-rate="194">Mauritania</option>
+                                        <option value="MU" alt="MU" data-country-rate="94">Mauritius</option>
+                                        <option value="YT" alt="YT" data-country-rate="150">Mayotte</option>
+                                        <option value="MX" alt="MX" data-country-rate="20">Mexico</option>
+                                        <option value="FM" alt="FM" data-country-rate="181">Micronesia, Federated States of</option>
+                                        <option value="MD" alt="MD" data-country-rate="89">Moldova, Republic of</option>
+                                        <option value="MC" alt="MC" data-country-rate="140">Monaco</option>
+                                        <option value="MN" alt="MN" data-country-rate="143">Mongolia</option>
+                                        <option value="ME" alt="ME" data-country-rate="129">Montenegro</option>
+                                        <option value="MS" alt="MS" data-country-rate="217">Montserrat</option>
+                                        <option value="MA" alt="MA" data-country-rate="86">Morocco</option>
+                                        <option value="MZ" alt="MZ" data-country-rate="128">Mozambique</option>
+                                        <option value="NA" alt="NA" data-country-rate="109">Namibia</option>
+                                        <option value="NR" alt="NR" data-country-rate="228">Nauru</option>
+                                        <option value="NP" alt="NP" data-country-rate="178">Nepal</option>
+                                        <option value="NL" alt="NL" data-country-rate="11">Netherlands</option>
+                                        <option value="AN" alt="AN" data-country-rate="114">Netherlands Antilles</option>
+                                        <option value="NC" alt="NC" data-country-rate="85">New Caledonia</option>
+                                        <option value="NZ" alt="NZ" data-country-rate="28">New Zealand</option>
+                                        <option value="NI" alt="NI" data-country-rate="126">Nicaragua</option>
+                                        <option value="NE" alt="NE" data-country-rate="200">Niger</option>
+                                        <option value="NG" alt="NG" data-country-rate="54">Nigeria</option>
+                                        <option value="NU" alt="NU" data-country-rate="230">Niue</option>
+                                        <option value="NF" alt="NF" data-country-rate="216">Norfolk Island</option>
+                                        <option value="MP" alt="MP" data-country-rate="177">Northern Mariana Islands</option>
+                                        <option value="NO" alt="NO" data-country-rate="21">Norway</option>
+                                        <option value="OM" alt="OM" data-country-rate="79">Oman</option>
+                                        <option value="QO" alt="QO" data-country-rate="236">Outlying Oceania</option>
+
+                                        <option value="PW" alt="PW" data-country-rate="193">Palau</option>
+                                        <option value="PS" alt="PS" data-country-rate="163">Palestinian Territory</option>
+                                        <option value="PA" alt="PA" data-country-rate="74">Panama</option>
+                                        <option value="PG" alt="PG" data-country-rate="135">Papua New Guinea</option>
+                                        <option value="PY" alt="PY" data-country-rate="91">Paraguay</option>
+                                        <option value="PE" alt="PE" data-country-rate="53">Peru</option>
+                                        <option value="PH" alt="PH" data-country-rate="45">Philippines</option>
+                                        <option value="PN" alt="PN" data-country-rate="224">Pitcairn</option>
+                                        <option value="PL" alt="PL" data-country-rate="19">Poland</option>
+                                        <option value="PT" alt="PT" data-country-rate="34">Portugal</option>
+                                        <option value="PR" alt="PR" data-country-rate="51">Puerto Rico</option>
+                                        <option value="QA" alt="QA" data-country-rate="64">Qatar</option>
+                                        <option value="RE" alt="RE" data-country-rate="71">Reunion</option>
+                                        <option value="RO" alt="RO" data-country-rate="38">Romania</option>
+                                        <option value="RU" alt="RU" data-country-rate="4">Russian Federation</option>
+                                        <option value="RW" alt="RW" data-country-rate="170">Rwanda</option>
+                                        <option value="BL" alt="BL" data-country-rate="207">Saint Barthelemy</option>
+                                        <option value="SH" alt="SH" data-country-rate="221">Saint Helena</option>
+                                        <option value="KN" alt="KN" data-country-rate="151">Saint Kitts and Nevis</option>
+                                        <option value="LC" alt="LC" data-country-rate="139">Saint Lucia</option>
+                                        <option value="MF" alt="MF" data-country-rate="179">Saint Martin</option>
+                                        <option value="PM" alt="PM" data-country-rate="188">Saint Pierre and Miquelon</option>
+                                        <option value="VC" alt="VC" data-country-rate="171">Saint Vincent and the Grenadines</option>
+                                        <option value="WS" alt="WS" data-country-rate="196">Samoa</option>
+                                        <option value="SM" alt="SM" data-country-rate="153">San Marino</option>
+                                        <option value="ST" alt="ST" data-country-rate="202">Sao Tome and Principe</option>
+                                        <option value="SA" alt="SA" data-country-rate="30">Saudi Arabia</option>
+                                        <option value="SN" alt="SN" data-country-rate="134">Senegal</option>
+                                        <option value="RS" alt="RS" data-country-rate="68">Serbia</option>
+                                        <option value="SC" alt="SC" data-country-rate="149">Seychelles</option>
+                                        <option value="SG" alt="SG" data-country-rate="32">Singapore</option>
+                                        <option value="SX" alt="SX" data-country-rate="187">Sint Maarten</option>
+                                        <option value="SK" alt="SK" data-country-rate="48">Slovak Republic</option>
+                                        <option value="SI" alt="SI" data-country-rate="60">Slovenia</option>
+                                        <option value="SB" alt="SB" data-country-rate="208">Solomon Islands</option>
+                                        <option value="ZA" alt="ZA" data-country-rate="27">South Africa</option>
+                                        <option value="GS" alt="GS" data-country-rate="226">South Georgia and the South Sandwich Islands</option>
+                                        <option value="SS" alt="SS" data-country-rate="225">South Sudan</option>
+                                        <option value="ES" alt="ES" data-country-rate="9">Spain</option>
+                                        <option value="LK" alt="LK" data-country-rate="83">Sri Lanka</option>
+                                        <option value="SR" alt="SR" data-country-rate="169">Suriname</option>
+                                        <option value="SJ" alt="SJ" data-country-rate="227">Svalbard and Jan Mayen</option>
+                                        <option value="SZ" alt="SZ" data-country-rate="175">Swaziland</option>
+                                        <option value="SE" alt="SE" data-country-rate="14">Sweden</option>
+                                        <option value="CH" alt="CH" data-country-rate="12">Switzerland</option>
+                                        <option value="TW" alt="TW" data-country-rate="40">Taiwan</option>
+                                        <option value="TJ" alt="TJ" data-country-rate="165">Tajikistan</option>
+                                        <option value="TZ" alt="TZ" data-country-rate="113">Tanzania, United Republic of</option>
+                                        <option value="TH" alt="TH" data-country-rate="37">Thailand</option>
+                                        <option value="TL" alt="TL" data-country-rate="176">Timor-Leste</option>
+                                        <option value="TG" alt="TG" data-country-rate="172">Togo</option>
+                                        <option value="TK" alt="TK" data-country-rate="234">Tokelau</option>
+                                        <option value="TO" alt="TO" data-country-rate="214">Tonga</option>
+                                        <option value="TT" alt="TT" data-country-rate="81">Trinidad and Tobago</option>
+                                        <option value="TA" alt="TA" data-country-rate="231">Tristan da Cunha</option>
+                                        <option value="TN" alt="TN" data-country-rate="130">Tunisia</option>
+                                        <option value="TR" alt="TR" data-country-rate="15">Turkey</option>
+                                        <option value="TM" alt="TM" data-country-rate="147">Turkmenistan</option>
+                                        <option value="TC" alt="TC" data-country-rate="166">Turks and Caicos Islands</option>
+                                        <option value="TV" alt="TV" data-country-rate="213">Tuvalu</option>
+                                        <option value="UG" alt="UG" data-country-rate="141">Uganda</option>
+                                        <option value="UA" alt="UA" data-country-rate="17">Ukraine</option>
+                                        <option value="AE" alt="AE" data-country-rate="26">United Arab Emirates</option>
+                                        <option value="GB" alt="GB" data-country-rate="1">United Kingdom</option>
+                                        <option value="UM" alt="UM" data-country-rate="145">United States Minor Outlying Islands</option>
+                                        <option value="US" alt="US" data-country-rate="0">United States of America</option>
+                                        <option value="UY" alt="UY" data-country-rate="72">Uruguay</option>
+                                        <option value="UZ" alt="UZ" data-country-rate="102">Uzbekistan</option>
+                                        <option value="VU" alt="VU" data-country-rate="201">Vanuatu</option>
+                                        <option value="VE" alt="VE" data-country-rate="70">Venezuela</option>
+                                        <option value="VN" alt="VN" data-country-rate="56">Vietnam</option>
+                                        <option value="VG" alt="VG" data-country-rate="84">Virgin Islands, British</option>
+                                        <option value="VI" alt="VI" data-country-rate="124">Virgin Islands, U.S.</option>
+                                        <option value="WF" alt="WF" data-country-rate="197">Wallis and Futuna Islands</option>
+                                        <option value="EH" alt="EH" data-country-rate="233">Western Sahara</option>
+                                        <option value="ZM" alt="ZM" data-country-rate="122">Zambia</option>
+                                        </select>
+                                    </div>
